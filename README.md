@@ -1,6 +1,6 @@
 ## Problema de Rastreamento de Objetos através de vídeo (Sequenciamento de Imagens) - Case UFV
 
-#### Universidade Federal de Ouro Preto
+#### HUB de Inteligência Artificial - Senai PR
 
 ## Participantes
 -  [Gustavo Estevam Sena (Residente)](https://github.com/Gultes)
