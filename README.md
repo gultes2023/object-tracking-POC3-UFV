@@ -9,9 +9,8 @@
 - Leonardo Goshi Sanches (Scrum Master)
 
 ## Objetivos
-- Aplicar os conhecimentos da Busca Informada para resolver um problema de Busca em Labirinto, de forma ótima utilizando uma heurística admissível.
-- Realizar testes alterando o valor de de w - peso associado a heurística, de forma a verificar quando o Algoritmo A* irá começar a falhar.
-- Reforçar o aprendizado sobre os algoritimos de Busca Informada.
+- Avaliar  diferentes algoritmos de Object Tracking, com foco em identificar a técnica mais adequada para a análise eficiente de movimentos de animais em ambientes naturais.
+- Aplicar os conheciemntos adquiridos durante a fase de estudos do programa em um case envolvendo um problema real.
 
 ## Sobre
 O trabalho consiste em mapear técnicas de Object Tracking visando identificar a técnica mais adequada para resolução de problema de rastreamento de animais em vídeos de drone disponibilizado pela UFV.
