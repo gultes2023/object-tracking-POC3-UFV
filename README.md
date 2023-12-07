@@ -10,7 +10,7 @@
 
 ## Objetivos
 - Avaliar  diferentes algoritmos de Object Tracking, com foco em identificar a técnica mais adequada para a análise eficiente de movimentos de animais em ambientes naturais.
-- Aplicar os conheciemntos adquiridos durante a fase de estudos do programa em um case envolvendo um problema real.
+- Aplicar os conhecimentos adquiridos durante a fase de estudos do programa em um case envolvendo um problema real.
 
 ## Sobre
 O trabalho consiste em mapear técnicas de Object Tracking visando identificar a técnica mais adequada para resolução de problema de rastreamento de animais em vídeos de drone disponibilizado pela UFV.
