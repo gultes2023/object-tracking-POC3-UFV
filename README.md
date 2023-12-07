@@ -34,6 +34,5 @@ $ Python Object-Tracking-Circular-Webcam.py ou pressione CTRL + F5 se estiver us
 A execução irá retornar resposta conforme o exemplo da imagem abaixo para o algoritmo  Object-Tracking-Circular-Webcam.py:
 
 ````
-![image](![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/993ca6d1-73d9-472e-a90a-066bbb218476)
-)
+![Object Tracking](https://raw.githubusercontent.com/gultes2023/object-tracking-POC3-UFV/main/assets/131166618/280ef3a4-e305-4519-9737-a5f15ef43737)
 ```
