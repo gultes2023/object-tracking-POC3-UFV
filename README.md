@@ -56,6 +56,12 @@ $ Python Object-Tracking-Circular-Webcam.py ou pressione CTRL + F5 se estiver us
 ````
 A execução irá retornar resposta conforme o exemplo da imagem abaixo para o algoritmo  Object-Tracking-Circular-Webcam.py:
 
+<div align="center">
+    <img src="https://i.imgur.com/O5euSwK.png" alt="Classic Object Tracking" width="720">
+</div>
+
+
+
 ````
-![Classic Object Tracking](https://i.imgur.com/O5euSwK.png)
+
 ```
