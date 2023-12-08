@@ -1,4 +1,4 @@
-## Problema de Rastreamento de Objetos através de vídeo (Sequenciamento de Imagens) - Case UFV
+## Problema de Rastreamento de Objetos através de vídeo - Case UFV
 
 #### HUB de Inteligência Artificial - Senai PR
 
