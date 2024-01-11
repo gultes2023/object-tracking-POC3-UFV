@@ -60,8 +60,15 @@ A execução irá retornar resposta conforme o exemplo da imagem abaixo para o a
     <img src="https://i.imgur.com/O5euSwK.png" alt="Classic Object Tracking" width="720">
 </div>
 
-
-
 ````
 
+````
+Já a execução da técnica do Filtro de Kalman disponível na segunda branch desse projeto,
+em um dataset específico que permite a visualização de peixes em movimento irá retornar:
+
+<div align="center">
+    <img src="https://i.imgur.com/CFZazvu.jpg" alt="Classic Object Tracking" width="720">
+</div>
+
+Fish Video Object Tracking Dataset : https://www.kaggle.com/datasets/trainingdatapro/fish-tracking-dataset
 ```
