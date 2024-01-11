@@ -6,7 +6,7 @@
 -  [Gustavo Estevam Sena (Residente)](https://github.com/Gultes)
 -  [Gustavo Rodrigues Wanke (Residente)](https://github.com/GWanke)
 
-- Leonardo Goshi Sanches (Scrum Master)
+-  [Leonardo Goshi Sanches (Scrum Master)](https://github.com/LeleoSanches)
 
 ## Objetivos
 - Avaliar  diferentes algoritmos de Object Tracking, com foco em identificar a técnica mais adequada para a análise eficiente de movimentos de animais em ambientes naturais.
@@ -70,5 +70,9 @@ em um dataset específico que permite a visualização de peixes em movimento ir
     <img src="https://i.imgur.com/CFZazvu.jpg" alt="Classic Object Tracking" width="720">
 </div>
 
-Fish Video Object Tracking Dataset : https://www.kaggle.com/datasets/trainingdatapro/fish-tracking-dataset
-```
+````
+
+Fish Video Object Tracking Dataset usado na implementação do filtro de Kalman:
+
+(https://www.kaggle.com/datasets/trainingdatapro/fish-tracking-dataset)
+
