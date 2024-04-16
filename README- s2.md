@@ -9,13 +9,16 @@
 -  [Leonardo Goshi Sanches (Scrum Master)](https://github.com/LeleoSanches)
 
 ## Objetivos
-- Avaliar  diferentes algoritmos de Object Tracking, com foco em identificar a técnica mais adequada para a análise eficiente de movimentos de animais em ambientes naturais.
-- Aplicar os conhecimentos adquiridos durante a fase de estudos do programa em um case envolvendo um problema real.
+- Experimentar modelos de rastreamento de objetos, visando o rastreamento de movimentos de macacos através de imagens áreas realizadas por drones em diferentes ambientes.
+- Aplicar os conhecimentos sobre os modelos pesquisados na Sprint 1 em um case envolvendo um problema real.
 
 ## Sobre
-O trabalho consiste em mapear técnicas de Object Tracking visando identificar a técnica mais adequada para resolução de problema de rastreamento de animais em vídeos de drone disponibilizado pela UFV.
+O trabalho dessa sprint consistiu em experimentar modelos de object tracking levantados na Sprint 1, dentre os quais houve destaque para o sort e deep sort (este segundo aplicado através do yolo BOXMOT). Tal experimentação possibilitou o rastreamento de macacos através das imagens dos vídeos atemporais usados para montagem do dataset na plataforma roboflow, que foi criado pela equipe 1 desse projeto da UFV, responsável pelo object detection. 
 
-## Branches do Projeto
+## Arquivos Entregáveios
+
+- sort-implementation: Contém a implementação do modelo matemático sort utilizado para detecção de objeto
+- deep-sort-implementation
 
 ### Branch Master
 
