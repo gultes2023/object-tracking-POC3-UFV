@@ -105,7 +105,7 @@ O trabalho dessa sprint consistiu em experimentar modelos de object tracking lev
 
 ![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/37e26115-2853-4afc-889c-c148ca78d615)
 
-**Link do vídeo do melhor resulado da sprint 2**
+**Link do vídeo do melhor resultado da sprint 2**
 
 - [Melhor rastreamento Sprint 2](https://youtu.be/5pWeXXhkqoE)
 
