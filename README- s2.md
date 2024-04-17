@@ -89,26 +89,27 @@ O trabalho dessa sprint consistiu em experimentar modelos de object tracking lev
 - Execute as células de código conforme necessário em cada notebook.
 - As alterações são salvas automaticamente.
 - Encerre a sessão quando terminar.
-
 ````
-A execução do Sort.py irá retornar resposta similar ao exemplo da imagem abaixo (Primeiro resultado da sprint 2)
-
-![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/75b3eb28-f797-4191-a0be-a4c7cc18c785)
-
-![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/0888b60c-40ec-4f5e-84e6-0e3d7f880a83)
-
 ````
-Já a execução do Deep Sort através do Yolo Tracking vai retornar resposta similar ao exemplo da imagem abaixo (Segundo e melhor resultado da sprint 2)
-em um dataset específico que permite a visualização de peixes em movimento irá retornar:
+## Resultados
+
+**A execução do Sort.py irá retornar resposta similar ao exemplo das imagens abaixo (Primeiro resultado da sprint 2)**
+
+![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/21b8adb7-5f1a-40df-b75e-1e16f16fff61)
+
+![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/0296c668-efa0-46b5-ba1a-2338ad8d729d)
+
+**Já a execução do Deep Sort através do Yolo Tracking (Augmentation.ipynb e feature_extr.ipynb) irá retornar resposta similar ao exemplo da imagens abaixo (Segundo e melhor resultado da sprint 2)**
 
 ![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/bb6b49e3-53fa-4f60-b652-bbea2438e5f5)
 
 ![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/37e26115-2853-4afc-889c-c148ca78d615)
 
-````
-
-Link do vídeo do melhor resulado da sprint 2
+**Link do vídeo do melhor resulado da sprint 2**
 
 - [Melhor rastreamento Sprint 2](https://youtu.be/5pWeXXhkqoE)
+
+````
+
 
 
