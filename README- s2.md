@@ -93,11 +93,9 @@ O trabalho dessa sprint consistiu em experimentar modelos de object tracking lev
 ````
 A execução do Sort.py irá retornar resposta similar ao exemplo da imagem abaixo (Primeiro resultado da sprint 2)
 
-![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/19ecc67d-6734-40fb-926d-8d7f00af8c47)
+![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/75b3eb28-f797-4191-a0be-a4c7cc18c785)
 
-![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/cad2d4d6-c3a7-4955-81ec-5ed64717288f)
-
-````
+![image](https://github.com/gultes2023/object-tracking-POC3-UFV/assets/131166618/0888b60c-40ec-4f5e-84e6-0e3d7f880a83)
 
 ````
 Já a execução do Deep Sort através do Yolo Tracking vai retornar resposta similar ao exemplo da imagem abaixo (Segundo e melhor resultado da sprint 2)
@@ -111,5 +109,6 @@ em um dataset específico que permite a visualização de peixes em movimento ir
 
 Link do vídeo do melhor resulado da sprint 2
 
-(https://www.kaggle.com/datasets/trainingdatapro/fish-tracking-dataset)
+- [Melhor rastreamento Sprint 2](https://youtu.be/5pWeXXhkqoE)
+
 
